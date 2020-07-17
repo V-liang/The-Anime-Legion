@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+
+}
+
+.wrapper{
+    width: 1024px;
+    margin: auto;
+}
+
+#main-content, 
+#sidebar{
+    width: 500px;
+    padding
+}
+
+@media screen and (max-width: 768px) {
+body {
+    background-color: black;
+}
+
+div {
+
+}
